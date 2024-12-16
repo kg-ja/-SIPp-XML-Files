@@ -1,5 +1,5 @@
-              cd /root
-              wget https://github.com/kg-ja/-SIPp-XML-Files/raw/main/XMLfiles.tar.gz
-              tar -xzvf XMLfiles.tar.gz
-              cd XMLfiles
-              cp *.xml /root/sipp-3.5.2
+          cd /root
+          wget https://github.com/kg-ja/-SIPp-XML-Files/raw/main/xmlfiles.tar.gz
+          tar -xzvf xmlfiles.tar.gz
+          cd xmlfiles.tar.gz
+          cp *.xml /root/sipp-X.X.X
